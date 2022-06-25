@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- ![30 Real Examples Of Blockchain Technology In Practice (1)](https://user-images.githubusercontent.com/6759031/140734194-2f2f30a0-d311-44e5-872d-10657f9c82c7.png) -->
 
 <h1 align="center">Hi there 👋, I'm Johnkingsley</h1>
