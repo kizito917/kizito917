@@ -1,30 +1,16 @@
 ### Hi there 👋
 
-<!--
-**kizito917/kizito917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Contact me on Codementor](https://www.codementor.io/m-badges/kizito917/im-a-cm-b.svg)](https://www.codementor.io/@kizito917?refer=badge)
 ![30 Real Examples Of Blockchain Technology In Practice (1)](https://user-images.githubusercontent.com/6759031/140734194-2f2f30a0-d311-44e5-872d-10657f9c82c7.png)
 
-<h1 align="center">Hi there 👋, I'm Gino</h1>
+<h1 align="center">Hi there 👋, I'm Johnkingsley</h1>
+[![Contact me on Codementor](https://www.codementor.io/m-badges/kizito917/im-a-cm-b.svg)](https://www.codementor.io/@kizito917?refer=badge)
 
-<p align="center"><b>Gino is very passionate about youth empowerment, and skills acquisition. He has over 7 years experience designing, planning, implementing, monitoring, reporting activities and projects for developers, designers, and startups. 
+<p align="center"><b>Johnkingsley is an engineer with keen eye for user-friendly interface, seamless software architecture and quality web platforms. I craft high-performance and scalable web products using my stack. a full-stack software engineer with a passion for building amazing products and also working with other awesome engineers in making problems get fast and seamless solutions.
 
-Gino works as a Developer Advocate for IOV Labs, where he will be working with the Developer Experience team to push for the adoption of IOV Labs platforms. </b></p>
+Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be working with the Developer Experience team to scale all banking applications and build seamless solutions for core banking activities. </b></p>
 
 
-- 🤔 Find out about my job experiences https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
+- 🤔 Find out about my job experiences [https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/](https://www.linkedin.com/in/amaechi-johnkingsley)
 
 
 #### Technologies and Tools
@@ -58,24 +44,19 @@ Gino works as a Developer Advocate for IOV Labs, where he will be working with t
 
 #### Volunteer Experience
 
-- [Founder/Developer Advocate, GDG Port Harcourt](https://gdg.community.dev/gdg-port-harcourt/)
+- [Mentor, Techrity Port Harcourt](https://techrity.org/)
 
-- [Developer Advocate, GDG Cloud Port Harcourt](https://gdg.community.dev/gdg-cloud-port-harcourt/)
-
-- [Co-organizer, All University Tech Community](https://twitter.com/AutcNigeria)
-
-- [Co-lead, Oracle Java User Group Port Harcourt](https://www.facebook.com/Java-User-Group-Port-Harcourt-1436358619990281)
-
+- [Mentor, Codementor United States](https://codementor.io/)
 
 <!--
-**Ginowine/Ginowine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kizito917/kizito917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
