@@ -8,7 +8,7 @@
 Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be working with the Developer Experience team to scale all banking applications and build seamless solutions for core banking activities. </b></p>
 
 
-- 🤔 Find out about my job experiences [https://www.linkedin.com/in/osahon-gino-ediagbonya-06508078/](https://www.linkedin.com/in/amaechi-johnkingsley)
+- 🤔 Find out about my job experiences [https://www.linkedin.com/in/amaechi-johnkingsley/](https://www.linkedin.com/in/amaechi-johnkingsley)
 
 
 #### Technologies and Tools
@@ -35,9 +35,8 @@ Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be wo
 
 #### Currently working at:
 
-- [Developer Advocate @ IOV Labs](https://iovlabs.org/)
-- [Advisory Board Member @ African Blockchain Center for Developers](https://www.abcdevs.com/)
-- [Ex Hub Manager @ Ken Saro-Wiwa Innovation Hub](https://www.ksinnovationhub.com/)
+- [Software Engineer @ Fidelity Bank](https://fidelitybank.ng/)
+- [Software Engineer @ Software Business Solutions Consulting](https://www.sbsc.com/)
 
 
 #### Volunteer Experience
