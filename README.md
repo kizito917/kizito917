@@ -1,7 +1,6 @@
 <!-- ![30 Real Examples Of Blockchain Technology In Practice (1)](https://user-images.githubusercontent.com/6759031/140734194-2f2f30a0-d311-44e5-872d-10657f9c82c7.png) -->
 
 <h1 align="center">Hi there 👋, I'm Johnkingsley</h1>
-[![Contact me on Codementor](https://www.codementor.io/m-badges/kizito917/im-a-cm-b.svg)](https://www.codementor.io/@kizito917?refer=badge)
 
 <p align="center"><b>Johnkingsley is an engineer with keen eye for user-friendly interface, seamless software architecture and quality web platforms. I craft high-performance and scalable web products using my stack. a full-stack software engineer with a passion for building amazing products and also working with other awesome engineers in making problems get fast and seamless solutions.
 
@@ -44,6 +43,8 @@ Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be wo
 - [Mentor, Techrity Port Harcourt](https://techrity.org/)
 
 - [Mentor, Codementor United States](https://codementor.io/)
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/kizito917/im-a-cm-b.svg)](https://www.codementor.io/@kizito917?refer=badge)
 
 <!--
 **kizito917/kizito917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
