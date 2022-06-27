@@ -14,7 +14,7 @@ Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be wo
 
 <p>
 <img src ="https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/nodejs-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/node-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -23,8 +23,8 @@ Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be wo
 <img src="https://img.shields.io/badge/mongodb%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/postgresql-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-<img src ="https://img.shields.io/badge/springboot-%2307405e.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src ="https://img.shields.io/badge/developer advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
+<img src ="https://img.shields.io/badge/vue-%2307405e.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src ="https://img.shields.io/badge/react-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 <img src ="https://img.shields.io/badge/startup advocate-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 </p>
 
