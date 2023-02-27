@@ -4,7 +4,7 @@
 
 <p align="center"><b>Johnkingsley is an engineer with keen eye for user-friendly interface, seamless software architecture and quality web platforms. I craft high-performance and scalable web products using my stack. a full-stack software engineer with a passion for building amazing products and also working with other awesome engineers in making problems get fast and seamless solutions.
 
-Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be working with the Developer Experience team to scale all banking applications and build seamless solutions for core banking activities. </b></p>
+Johnkingsley works as a Software Engineer for CAEmate S.R.L, where he will be working with the Software Engineering, Civil and Mechanical Engineering team to scale and develop cloud application used in structural, civil and mechanical engineering services applications. He will be building models and algorithm used in the applications which serves all its required engineering purposes. </b></p>
 
 
 - 🤔 Find out about my job experiences [https://www.linkedin.com/in/amaechi-johnkingsley/](https://www.linkedin.com/in/amaechi-johnkingsley)
@@ -31,13 +31,10 @@ Johnkingsley works as a Software Engineer for Fidelity Bank, where he will be wo
 
 #### Currently working at:
 
-- [Software Engineer @ Fidelity Bank](https://fidelitybank.ng/)
-- [Software Engineer @ Software Business Solutions Consulting](https://www.sbsc.com/)
+- [Software Engineer @ CAEmate S.R.L](https://caemate.com/)
 
 
 #### Volunteer Experience
-
-- [Mentor, Techrity Port Harcourt](https://techrity.org/)
 
 - [Mentor, Codementor United States](https://codementor.io/)
 
