@@ -36,7 +36,7 @@ Johnkingsley works as a Software Engineer for CAEmate S.R.L, where he will be wo
 
 #### Volunteer Experience
 
-- [Mentor, Codementor United States](https://codementor.io/)
+- [Mentor @ Codementor (United States)](https://codementor.io/)
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/kizito917/im-a-cm-b.svg)](https://www.codementor.io/@kizito917?refer=badge)
 
