@@ -4,7 +4,7 @@
 
 <p align="center"><b>Johnkingsley is an engineer with keen eye for user-friendly interface, seamless software architecture and quality web platforms. I craft high-performance and scalable web products using my stack. a full-stack software engineer with a passion for building amazing products and also working with other awesome engineers in making problems get fast and seamless solutions.
 
-Johnkingsley works as a Software Engineer for CAEmate S.R.L, where he will be working with the Software Engineering, Civil and Mechanical Engineering team to scale and develop cloud application used in structural, civil and mechanical engineering services applications. He will be building models and algorithm used in the applications which serves all its required engineering purposes. </b></p>
+Johnkingsley works as a Software Engineer and Mentor for Codementor, where he will be consulting for several organizations, companies and individuals on several areas of software development, Product design and also provide mentorship to junior engineers. </b></p>
 
 
 - 🤔 Find out about my job experiences [https://www.linkedin.com/in/amaechi-johnkingsley/](https://www.linkedin.com/in/amaechi-johnkingsley)
@@ -31,12 +31,7 @@ Johnkingsley works as a Software Engineer for CAEmate S.R.L, where he will be wo
 
 #### Currently working at:
 
-- [Software Engineer @ CAEmate S.R.L](https://caemate.com/)
-
-
-#### Volunteer Experience
-
-- [Mentor @ Codementor (United States)](https://codementor.io/)
+- [Software Engineer @ Codementor](https://codementor.io/)
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/kizito917/im-a-cm-b.svg)](https://www.codementor.io/@kizito917?refer=badge)
 
