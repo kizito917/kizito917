@@ -25,7 +25,6 @@ Johnkingsley works as a Software Engineer and Mentor for Codementor, where he wi
   <img src="https://img.shields.io/badge/mongodb%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/postgresql-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Solidity&logoColor=white"/>
 </p>
 
 
