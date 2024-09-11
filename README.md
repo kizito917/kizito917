@@ -27,10 +27,14 @@ Johnkingsley works as a Software Engineer and Mentor for Codementor, where he wi
   <img src ="https://img.shields.io/badge/postgresql-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
-
 #### Currently working at:
 
-- [Software Engineer @ Codementor](https://codementor.io/)
+- [Software Engineer @ Dolcepay](https://dpkenya.com/)
+
+
+#### In need of mentoring? reach out to me on:
+
+- [Codementor](https://codementor.io/)
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/kizito917/im-a-cm-b.svg)](https://www.codementor.io/@kizito917?refer=badge)
 
