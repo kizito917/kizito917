@@ -4,7 +4,7 @@
 
 <p align="center"><b>Johnkingsley is an engineer with keen eye for user-friendly interface, seamless software architecture and quality web platforms. I craft high-performance and scalable web products using my stack. a full-stack software engineer with a passion for building amazing products and also working with other awesome engineers in making problems get fast and seamless solutions.
 
-Johnkingsley works as a Software Engineer and Mentor for Codementor, where he will be consulting for several organizations, companies and individuals on several areas of software development, Product design and also provide mentorship to junior engineers. </b></p>
+Johnkingsley works as a Software Engineer for Dolcepay, and Mentors Software developers and engineers at Codementor. </b></p>
 
 
 - 🤔 Find out about my job experiences [https://www.linkedin.com/in/amaechi-johnkingsley/](https://www.linkedin.com/in/amaechi-johnkingsley)
