@@ -29,7 +29,7 @@ Johnkingsley works as a Software Engineer for Dolcepay, and Mentors Software dev
 
 #### Currently working at:
 
-- [Software Engineer @ Dolcepay](https://dpkenya.com/)
+- [Senior Software Engineer @ Dolcepay](https://dpkenya.com/)
 
 
 #### In need of mentoring? reach out to me on:
