@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Johnkingsley</h1>
 
-<p align="center"><b>Johnkingsley is an engineer with keen eye for user-friendly interface, seamless software architecture and quality web platforms. I craft high-performance and scalable web products using my stack. a full-stack software engineer with a passion for building amazing products and also working with other awesome engineers in making problems get fast and seamless solutions.
-
-Johnkingsley currently works as a Software Engineer for Savannah Tech, and also Mentors Software developers and engineers at Codementor. </b></p>
+<p align="center"><b>Johnkingsley is an engineer with keen eye for user-friendly interface, seamless software architecture and quality web platforms. I craft high-performance and scalable web products using my stack. a full-stack software engineer with a passion for building amazing products and also working with other awesome engineers in making problems get fast and seamless solutions.</b></p>
 
 
 - 🤔 Find out about my job experiences [https://www.linkedin.com/in/amaechi-johnkingsley/](https://www.linkedin.com/in/amaechi-johnkingsley)
